@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Favorites - APPROX Recipe's</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">Culinary Hub</div>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="#favorites">Favorites</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a href="{{ url_for('logout') }}">Logout</a></li>
+        </ul>
+      </nav>
+      <div class="hero">
+        <h1>My Favorite Recipes</h1>
+        <p>Your personal collection of delicious recipes.</p>
+      </div>
+    </header>
+
+    <section id="favorites" class="favorites">
+      <h2>Favorite Recipes</h2>
+      <div class="recipe-grid" id="favoritesGrid"></div>
+      <div id="noFavorites" style="display: none; text-align: center; padding: 50px;">
+        <h3>No favorites yet!</h3>
+        <p>Start adding recipes to your favorites from the home page.</p>
+        <a href="/" class="btn">Browse Recipes</a>
+      </div>
+    </section>
+
+    <footer>
+      <p>© 2025 APPROX Recipe's All rights reserved.</p>
+      <div class="social-links">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+      </div>
+    </footer>
+
+    <script src="../static/script.js"></script>
+    <script>
+      // Load favorites on page load
+      document.addEventListener('DOMContentLoaded', loadFavoritesPage);
+    </script>
+  </body>
+</html>

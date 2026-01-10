@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>APPROX Recipe's</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="logo">Culinary Hub</div>
+        <div class="nav-right">
+          <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search recipes..." />
+            <i class="fas fa-search"></i>
+          </div>
+          <div class="auth-links">
+            {% if session.logged_in %}
+            <span>Welcome, {{ session.username }}!</span>
+            <a href="/favorites">Favorites</a>
+            <a href="/logout">Logout</a>
+            {% else %}
+            <a href="/login">Login</a>
+            {% endif %}
+          </div>
+        </div>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#recipes">Recipes</a></li>
+          <li><a href="#categories">Categories</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="hero">
+        <h1>Explore Culinary Delights</h1>
+        <p>
+          Discover a world of flavors with our handpicked recipes for every
+          occasion.
+        </p>
+        <a href="#recipes" class="btn">Browse Recipes</a>
+      </div>
+    </header>
+
+    <section id="categories" class="categories">
+      <h2>Recipe Categories</h2>
+      <div class="category-grid">
+        <div class="category-card" data-category="Breakfast">
+          <img
+            src="https://images.unsplash.com/photo-1525351484163-7529414344d8"
+            alt="Breakfast"
+          />
+          <h3>Breakfast</h3>
+        </div>
+        <div class="category-card" data-category="Lunch">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTxB748x33Ld9rx0JdB1b3A86Ox1ONjY_6yA&s"
+            alt="Lunch"
+          />
+          <h3>Lunch</h3>
+        </div>
+        <div class="category-card" data-category="Dinner">
+          <img
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtM45JsnjbQyITd4jkux-rhUTdbuaGi683CA&s"
+            alt="Dinner"
+          />
+          <h3>Dinner</h3>
+        </div>
+        <div class="category-card" data-category="Desserts">
+          <img
+            src="https://c8.alamy.com/comp/KM8FKT/food-deserts-set-sketch-hand-drawn-colored-KM8FKT.jpg"
+            alt="Desserts"
+          />
+          <h3>Desserts</h3>
+        </div>
+      </div>
+    </section>
+
+    <section id="recipes" class="recipes">
+      <h2>Featured Recipes</h2>
+      <div class="filters">
+        <select id="categoryFilter">
+          <option value="">All Categories</option>
+          <option value="Breakfast">Breakfast</option>
+          <option value="Lunch">Lunch</option>
+          <option value="Dinner">Dinner</option>
+          <option value="Desserts">Desserts</option>
+        </select>
+      </div>
+      <div class="recipe-grid" id="recipeGrid"></div>
+    </section>
+
+
+
+    <section class="newsletter">
+      <h2>Join Our Newsletter</h2>
+      <p>Get the latest recipes and cooking tips delivered to your inbox.</p>
+      <form id="newsletterForm">
+        <input type="email" placeholder="Enter your email" required />
+        <button type="submit" class="btn">Subscribe</button>
+      </form>
+    </section>
+
+    <footer>
+      <p>© 2025 APPROX Recipe's All rights reserved.</p>
+      <div class="social-links">
+        <a href="#"><i class="fab fa-facebook-f"></i></a>
+        <a href="#"><i class="fab fa-instagram"></i></a>
+        <a href="#"><i class="fab fa-twitter"></i></a>
+      </div>
+    </footer>
+
+    <script src="../static/script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1738 @@
+[
+    {
+        "id": 1,
+        "title": "Spaghetti Carbonara",
+        "description": "A creamy, authentic Italian pasta dish with eggs, cheese, and pancetta.",
+        "category": "Dinner",
+        "image": "https://www.marthastewart.com/thmb/S9xVtnWSHldvxPHKOxEq0bALG-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MSL-338686-spaghetti-carbonara-hero-3x2-69999-560b45d1dd9f4741b717176eff024839.jpeg",
+        "ingredients": [
+            "200g spaghetti",
+            "100g pancetta or bacon",
+            "2 large eggs",
+            "50g grated Parmesan cheese",
+            "50g grated Pecorino cheese",
+            "Black pepper",
+            "Salt"
+        ],
+        "instructions": [
+            "Bring a large pot of salted water to boil and cook spaghetti according to package directions.",
+            "In a skillet, cook pancetta until crispy. Remove from heat.",
+            "In a bowl, whisk eggs, cheeses, and black pepper.",
+            "Drain pasta, reserving some water. Add hot pasta to skillet with pancetta.",
+            "Quickly mix in egg mixture off heat, adding pasta water if needed for creaminess.",
+            "Serve immediately with extra cheese and pepper."
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Mediterranean Quinoa Salad",
+        "description": "A fresh, healthy salad with quinoa, feta, olives, and tomatoes.",
+        "category": "Lunch",
+        "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
+        "ingredients": [
+            "1 cup quinoa",
+            "2 cups water",
+            "1 cucumber, diced",
+            "2 tomatoes, diced",
+            "1/2 red onion, finely chopped",
+            "1/2 cup kalamata olives, pitted",
+            "100g feta cheese, crumbled",
+            "1/4 cup olive oil",
+            "2 tbsp lemon juice",
+            "Salt and pepper",
+            "Fresh parsley, chopped"
+        ],
+        "instructions": [
+            "Rinse quinoa and cook in water until fluffy, about 15 minutes. Let cool.",
+            "In a large bowl, combine cucumber, tomatoes, onion, olives, and feta.",
+            "Add cooled quinoa to the bowl.",
+            "Whisk olive oil, lemon juice, salt, and pepper for dressing.",
+            "Pour dressing over salad and toss gently.",
+            "Garnish with parsley and serve chilled."
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Homemade Margherita Pizza",
+        "description": "A simple yet delicious pizza with fresh basil, mozzarella, and tomatoes.",
+        "category": "Dinner",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIVoea1-Ah2EODldo_k_WWalEZrydeBc-bBw&s",
+        "ingredients": [
+            "1 pizza dough (store-bought or homemade)",
+            "1/2 cup tomato sauce",
+            "200g fresh mozzarella, sliced",
+            "2 tomatoes, sliced",
+            "Fresh basil leaves",
+            "2 tbsp olive oil",
+            "Salt and pepper"
+        ],
+        "instructions": [
+            "Preheat oven to 475°F (245°C).",
+            "Roll out pizza dough on a floured surface.",
+            "Spread tomato sauce evenly, leaving a border.",
+            "Add mozzarella slices and tomato slices.",
+            "Drizzle with olive oil and season with salt and pepper.",
+            "Bake for 12-15 minutes until crust is golden.",
+            "Top with fresh basil before serving."
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Blueberry Pancakes",
+        "description": "Fluffy pancakes bursting with fresh blueberries, perfect for breakfast.",
+        "category": "Breakfast",
+        "image": "https://www.allrecipes.com/thmb/ecb0XKvcrE7OyxBLX3OVEd30TbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/686460-todds-famous-blueberry-pancakes-Dianne-1x1-1-9bd040b975634bce884847ce2090de16.jpg",
+        "ingredients": [
+            "1 cup all-purpose flour",
+            "2 tbsp sugar",
+            "1 tsp baking powder",
+            "1/2 tsp baking soda",
+            "1/4 tsp salt",
+            "1 cup buttermilk",
+            "1 egg",
+            "2 tbsp melted butter",
+            "1 cup fresh blueberries",
+            "Maple syrup for serving"
+        ],
+        "instructions": [
+            "In a bowl, whisk flour, sugar, baking powder, baking soda, and salt.",
+            "In another bowl, mix buttermilk, egg, and melted butter.",
+            "Combine wet and dry ingredients until just mixed. Fold in blueberries.",
+            "Heat a skillet over medium heat. Pour batter for each pancake.",
+            "Cook until bubbles form and edges look set, then flip.",
+            "Cook until golden. Serve with maple syrup."
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Chocolate Lava Cake",
+        "description": "A decadent dessert with a gooey chocolate center, served with ice cream.",
+        "category": "Desserts",
+        "image": "https://images.pexels.com/photos/5163948/pexels-photo-5163948.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "ingredients": [
+            "100g dark chocolate",
+            "50g butter",
+            "2 eggs",
+            "2 egg yolks",
+            "50g sugar",
+            "25g flour",
+            "Vanilla ice cream for serving"
+        ],
+        "instructions": [
+            "Preheat oven to 425°F (220°C). Grease ramekins.",
+            "Melt chocolate and butter together.",
+            "Whisk eggs, yolks, and sugar until pale.",
+            "Fold in chocolate mixture and flour.",
+            "Pour into ramekins and bake for 12-14 minutes.",
+            "Let cool slightly, then invert onto plates.",
+            "Serve with ice cream."
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Grilled Chicken Wrap",
+        "description": "A healthy wrap with grilled chicken, avocado, and fresh veggies.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfn9g17yKHACo2tWyAAftTu9tV4iX2VbtuEg&s",
+        "ingredients": [
+            "2 chicken breasts",
+            "4 large tortillas",
+            "1 avocado, sliced",
+            "1 tomato, sliced",
+            "Lettuce leaves",
+            "1/2 red onion, sliced",
+            "2 tbsp olive oil",
+            "Salt and pepper",
+            "Greek yogurt or mayo for spread"
+        ],
+        "instructions": [
+            "Season chicken with salt, pepper, and olive oil. Grill until cooked.",
+            "Slice grilled chicken.",
+            "Spread yogurt on tortillas.",
+            "Layer chicken, avocado, tomato, onion, and lettuce.",
+            "Roll up tightly and cut in half.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Avocado Toast",
+        "description": "Simple and nutritious breakfast with creamy avocado on toasted bread.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPfqIDCCdL5IDo0IOwcXdOx6q8o7V6su_lCg&s",
+        "ingredients": [
+            "2 slices whole grain bread",
+            "1 ripe avocado",
+            "1 lemon, juiced",
+            "Salt and pepper",
+            "Red pepper flakes (optional)",
+            "Cherry tomatoes, halved (optional)"
+        ],
+        "instructions": [
+            "Toast bread until golden.",
+            "Mash avocado with lemon juice, salt, and pepper.",
+            "Spread on toast.",
+            "Top with tomatoes and red pepper flakes if desired.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Caesar Salad",
+        "description": "Classic salad with romaine, croutons, Parmesan, and Caesar dressing.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD4JHrTdXGtuiDcGBvIGRKfrgoVE0QeP3yOw&s",
+        "ingredients": [
+            "1 head romaine lettuce",
+            "1/2 cup croutons",
+            "1/4 cup grated Parmesan",
+            "2 tbsp Caesar dressing",
+            "1 tbsp olive oil",
+            "Lemon wedge"
+        ],
+        "instructions": [
+            "Chop lettuce and place in bowl.",
+            "Add croutons and Parmesan.",
+            "Drizzle with dressing and olive oil.",
+            "Toss gently.",
+            "Serve with lemon wedge."
+        ]
+    },
+    {
+        "id": 10,
+        "title": "French Toast",
+        "description": "Sweet and crispy breakfast treat dipped in egg and cinnamon.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVighMEGJl3vzcblYoAZY4y7sPboOp0abDnA&s",
+        "ingredients": [
+            "4 slices bread",
+            "2 eggs",
+            "1/2 cup milk",
+            "1 tsp cinnamon",
+            "1 tsp vanilla",
+            "Butter for frying",
+            "Maple syrup"
+        ],
+        "instructions": [
+            "Whisk eggs, milk, cinnamon, vanilla.",
+            "Dip bread in mixture.",
+            "Fry in butter until golden on both sides.",
+            "Serve with syrup."
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Caprese Salad",
+        "description": "Fresh Italian salad with tomatoes, mozzarella, and basil.",
+        "category": "Lunch",
+        "image": "https://www.allrecipes.com/thmb/Usj7zOLJSQ5xqw-4dwWarvPNjJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-228126-caprese-salad-with-balsamic-reduction-ddmfs-2644-4x3-f32ac2b2fb9d4234884a752490fb015b.jpg",
+        "ingredients": [
+            "2 tomatoes, sliced",
+            "200g mozzarella, sliced",
+            "Fresh basil leaves",
+            "2 tbsp olive oil",
+            "Balsamic vinegar",
+            "Salt and pepper"
+        ],
+        "instructions": [
+            "Arrange tomato and mozzarella slices alternately.",
+            "Top with basil.",
+            "Drizzle with oil and vinegar.",
+            "Season with salt and pepper.",
+            "Serve chilled."
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Chicken Parmesan",
+        "description": "Breaded chicken cutlets topped with marinara and cheese.",
+        "category": "Dinner",
+        "image": "https://preppykitchen.com/wp-content/uploads/2018/10/Chicken-Parmesan-Recipe-n.jpg",
+        "ingredients": [
+            "2 chicken breasts",
+            "1/2 cup flour",
+            "1 egg",
+            "1/2 cup breadcrumbs",
+            "1/2 cup marinara sauce",
+            "100g mozzarella",
+            "Parmesan cheese",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Pound chicken thin, bread with flour, egg, breadcrumbs.",
+            "Fry until golden.",
+            "Top with sauce and cheeses.",
+            "Bake at 400°F for 10 minutes.",
+            "Serve with pasta."
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Tiramisu",
+        "description": "Classic Italian dessert with coffee-soaked ladyfingers and mascarpone.",
+        "category": "Desserts",
+        "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9",
+        "ingredients": [
+            "200g ladyfingers",
+            "250g mascarpone",
+            "2 eggs",
+            "50g sugar",
+            "1 cup strong coffee",
+            "Cocoa powder"
+        ],
+        "instructions": [
+            "Dip ladyfingers in coffee.",
+            "Layer in dish.",
+            "Mix mascarpone, eggs, sugar for cream.",
+            "Spread over ladyfingers.",
+            "Repeat layers.",
+            "Dust with cocoa. Chill overnight."
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Fruit Salad",
+        "description": "Refreshing mix of seasonal fruits with a honey dressing.",
+        "category": "Desserts",
+        "image": "https://images.unsplash.com/photo-1490474418585-ba9bad8fd0ea",
+        "ingredients": [
+            "1 apple, diced",
+            "1 banana, sliced",
+            "1 cup strawberries",
+            "1 cup grapes",
+            "2 tbsp honey",
+            "1 tbsp lemon juice",
+            "Mint leaves"
+        ],
+        "instructions": [
+            "Combine fruits in bowl.",
+            "Mix honey and lemon for dressing.",
+            "Pour over fruits.",
+            "Toss gently.",
+            "Garnish with mint."
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Vegetable Stir-Fry",
+        "description": "Quick and healthy stir-fry with mixed vegetables and tofu.",
+        "category": "Dinner",
+        "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd",
+        "ingredients": [
+            "200g tofu, cubed",
+            "1 bell pepper, sliced",
+            "1 carrot, sliced",
+            "1 cup broccoli florets",
+            "2 tbsp soy sauce",
+            "1 tbsp sesame oil",
+            "1 garlic clove, minced",
+            "Ginger, grated",
+            "Rice for serving"
+        ],
+        "instructions": [
+            "Heat oil in wok, fry tofu until golden.",
+            "Add garlic and ginger, stir.",
+            "Add vegetables, stir-fry until tender.",
+            "Add soy sauce, cook for 2 minutes.",
+            "Serve over rice."
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Omelette",
+        "description": "Fluffy omelette with cheese and herbs.",
+        "category": "Breakfast",
+        "image": "https://www.olivetomato.com/wp-content/uploads/2016/02/SAM4952-1.jpg",
+        "ingredients": [
+            "3 eggs",
+            "50g cheese, grated",
+            "1 tbsp butter",
+            "Salt and pepper",
+            "Fresh herbs"
+        ],
+        "instructions": [
+            "Whisk eggs with salt and pepper.",
+            "Heat butter in pan.",
+            "Pour eggs, cook until set.",
+            "Add cheese and herbs.",
+            "Fold and serve."
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Turkey Sandwich",
+        "description": "Classic sandwich with turkey, lettuce, and tomato.",
+        "category": "Lunch",
+        "image": "https://assets.unileversolutions.com/recipes-v2/72390.jpg",
+        "ingredients": [
+            "4 slices bread",
+            "200g turkey slices",
+            "Lettuce leaves",
+            "1 tomato, sliced",
+            "Mayo or mustard",
+            "Salt and pepper"
+        ],
+        "instructions": [
+            "Spread mayo on bread.",
+            "Layer turkey, lettuce, tomato.",
+            "Season with salt and pepper.",
+            "Top with second slice.",
+            "Cut and serve."
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Chocolate Chip Cookies",
+        "description": "Chewy cookies loaded with chocolate chips.",
+        "category": "Desserts",
+        "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+        "ingredients": [
+            "1 cup butter, softened",
+            "1 cup sugar",
+            "1 cup brown sugar",
+            "2 eggs",
+            "2 cups flour",
+            "1 tsp baking soda",
+            "1 tsp vanilla",
+            "2 cups chocolate chips"
+        ],
+        "instructions": [
+            "Cream butter and sugars.",
+            "Add eggs and vanilla.",
+            "Mix flour and baking soda.",
+            "Fold in chocolate chips.",
+            "Drop on baking sheet.",
+            "Bake at 350°F for 10-12 minutes."
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Smoothie Bowl",
+        "description": "Thick smoothie topped with fruits and nuts.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqzjKJIftD_amvoLRS_cksVXlLO5hK4SDIA&s",
+        "ingredients": [
+            "1 banana",
+            "1 cup berries",
+            "1/2 cup yogurt",
+            "1/4 cup almond milk",
+            "Toppings: granola, nuts, fruits"
+        ],
+        "instructions": [
+            "Blend banana, berries, yogurt, milk.",
+            "Pour into bowl.",
+            "Top with granola and fruits.",
+            "Serve immediately."
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Greek Salad",
+        "description": "Fresh salad with feta, olives, and cucumber.",
+        "category": "Lunch",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/greek-salad-index-642f292397bbf.jpg?crop=0.888888888888889xw:1xh;center,top&resize=1200:*",
+        "ingredients": [
+            "1 cucumber, sliced",
+            "2 tomatoes, chopped",
+            "1/2 red onion, sliced",
+            "100g feta",
+            "1/2 cup olives",
+            "Olive oil and vinegar dressing"
+        ],
+        "instructions": [
+            "Combine vegetables in bowl.",
+            "Add feta and olives.",
+            "Drizzle with dressing.",
+            "Toss and serve."
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Cheesecake",
+        "description": "Creamy cheesecake with graham cracker crust.",
+        "category": "Desserts",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxCMK-IaT-oxjWWP05jCuq84dBEiJdOsjOXQ&s",
+        "ingredients": [
+            "200g cream cheese",
+            "1/2 cup sugar",
+            "2 eggs",
+            "1 tsp vanilla",
+            "Graham cracker crust",
+            "Berry topping"
+        ],
+        "instructions": [
+            "Beat cream cheese and sugar.",
+            "Add eggs and vanilla.",
+            "Pour over crust.",
+            "Bake at 325°F for 50 minutes.",
+            "Top with berries."
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Veggie Omelette",
+        "description": "Fluffy omelette loaded with fresh vegetables.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSywBJZGlS705zubsborR3c6Xj5yGDaEoY8ig&s",
+        "ingredients": [
+            "3 eggs",
+            "1/2 bell pepper, diced",
+            "1/2 onion, chopped",
+            "1 tomato, diced",
+            "Spinach, handful",
+            "1 tbsp olive oil",
+            "Salt and pepper"
+        ],
+        "instructions": [
+            "Whisk eggs with salt and pepper.",
+            "Heat oil in pan, sauté veggies.",
+            "Pour eggs over veggies.",
+            "Cook until set, fold and serve."
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Bacon and Egg Sandwich",
+        "description": "Classic breakfast sandwich with crispy bacon.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx76HMA1iEmLpxJM0KfufJ9ymMrlndwRm1Fg&s",
+        "ingredients": [
+            "2 slices bread",
+            "2 eggs",
+            "4 bacon strips",
+            "Cheese slice",
+            "Butter"
+        ],
+        "instructions": [
+            "Cook bacon until crispy.",
+            "Fry eggs.",
+            "Toast bread with butter.",
+            "Layer bacon, egg, cheese.",
+            "Serve as sandwich."
+        ]
+    },
+    {
+        "id": 25,
+        "title": "Chia Seed Pudding",
+        "description": "Healthy pudding made with chia seeds and almond milk.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAPT26V1ueEWxY37HzpdVgA6VcnXg1iWgZ6Q&s",
+        "ingredients": [
+            "1/4 cup chia seeds",
+            "1 cup almond milk",
+            "1 tbsp honey",
+            "1/2 tsp vanilla",
+            "Toppings: fruits, nuts"
+        ],
+        "instructions": [
+            "Mix chia, milk, honey, vanilla.",
+            "Refrigerate overnight.",
+            "Stir and top with fruits."
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Sausage Breakfast Burrito",
+        "description": "Hearty burrito with sausage, eggs, and cheese.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1Zp_CDZdbBElXVJ0CAA4HvZEi2JpkSnRwQ&s",
+        "ingredients": [
+            "1 tortilla",
+            "2 sausages, cooked",
+            "2 eggs, scrambled",
+            "Cheese, shredded",
+            "Salsa"
+        ],
+        "instructions": [
+            "Scramble eggs.",
+            "Layer in tortilla: sausage, eggs, cheese.",
+            "Roll up, serve with salsa."
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Overnight Oats",
+        "description": "Easy no-cook oats prepared the night before.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkI590sb0QaFjAlLCdyzpHLt3DJKN15FpjYw&s",
+        "ingredients": [
+            "1/2 cup oats",
+            "1 cup milk",
+            "1 banana, mashed",
+            "1 tbsp peanut butter",
+            "Cinnamon"
+        ],
+        "instructions": [
+            "Mix all ingredients.",
+            "Refrigerate overnight.",
+            "Stir and enjoy."
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Smoked Salmon Bagel",
+        "description": "Bagel topped with smoked salmon and cream cheese.",
+        "category": "Breakfast",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZsE-PHXhk-6yp1BW96kL4_uVYuItv0AFN-w&s",
+        "ingredients": [
+            "1 bagel",
+            "100g smoked salmon",
+            "Cream cheese",
+            "Capers",
+            "Red onion, sliced"
+        ],
+        "instructions": [
+            "Toast bagel.",
+            "Spread cream cheese.",
+            "Top with salmon, capers, onion."
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Fruit Parfait",
+        "description": "Layered yogurt parfait with fruits and granola.",
+        "category": "Breakfast",
+        "image": "https://i2.wp.com/lmld.org/wp-content/uploads/2019/02/Rainbow-Fruit-Parfait-10.jpg",
+        "ingredients": [
+            "1 cup yogurt",
+            "1 cup mixed berries",
+            "1/2 cup granola",
+            "Honey"
+        ],
+        "instructions": [
+            "Layer yogurt, berries, granola.",
+            "Drizzle honey.",
+            "Serve chilled."
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Quinoa Buddha Bowl",
+        "description": "Nutritious bowl with quinoa, veggies, and tahini dressing.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfqb6COdQmnKcJ1xfOY-1HsUtQ2M2XjBtVg&s",
+        "ingredients": [
+            "1 cup quinoa",
+            "1 avocado, sliced",
+            "1 cucumber, sliced",
+            "Cherry tomatoes",
+            "Tahini dressing"
+        ],
+        "instructions": [
+            "Cook quinoa.",
+            "Arrange veggies on top.",
+            "Drizzle dressing.",
+            "Serve."
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Tuna Salad Sandwich",
+        "description": "Classic tuna salad in a sandwich.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhQJFI7gTfuLVzYs0g-ZETeyoWp8YKucvsXA&s",
+        "ingredients": [
+            "1 can tuna",
+            "2 tbsp mayo",
+            "Celery, chopped",
+            "Bread slices",
+            "Lettuce"
+        ],
+        "instructions": [
+            "Mix tuna, mayo, celery.",
+            "Spread on bread.",
+            "Add lettuce, close sandwich."
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Lentil Soup",
+        "description": "Hearty soup made with lentils and vegetables.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa38jUCpR1xvrjFynhe2lj50Rn8CCDZapRQg&s",
+        "ingredients": [
+            "1 cup lentils",
+            "1 onion, chopped",
+            "2 carrots, chopped",
+            "2 celery stalks",
+            "Vegetable broth"
+        ],
+        "instructions": [
+            "Sauté veggies.",
+            "Add lentils and broth.",
+            "Simmer 30 minutes.",
+            "Blend if desired."
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Chicken Caesar Wrap",
+        "description": "Wrap with grilled chicken and Caesar dressing.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSft4WuP9YxYgKC081ILchIzHr-EkHRXE5ULA&s",
+        "ingredients": [
+            "1 tortilla",
+            "Grilled chicken strips",
+            "Romaine lettuce",
+            "Caesar dressing",
+            "Parmesan"
+        ],
+        "instructions": [
+            "Layer chicken, lettuce in tortilla.",
+            "Add dressing and cheese.",
+            "Roll up."
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Chickpea Salad",
+        "description": "Fresh salad with chickpeas and veggies.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAaxLv_dXaeNHZ5cZG9vciOmJ7UEP1mi4oxg&s",
+        "ingredients": [
+            "1 can chickpeas",
+            "1 cucumber, diced",
+            "1 tomato, diced",
+            "Feta cheese",
+            "Olive oil dressing"
+        ],
+        "instructions": [
+            "Mix all ingredients.",
+            "Drizzle dressing.",
+            "Toss and serve."
+        ]
+    },
+    {
+        "id": 35,
+        "title": "BLT Sandwich",
+        "description": "Bacon, lettuce, and tomato sandwich.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgtTnzJew0D1gQMzJv2KybynkjSzyNtxxN3g&s",
+        "ingredients": [
+            "4 bacon strips",
+            "2 bread slices",
+            "Lettuce",
+            "Tomato slices",
+            "Mayo"
+        ],
+        "instructions": [
+            "Cook bacon.",
+            "Spread mayo on bread.",
+            "Layer bacon, lettuce, tomato."
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Vegetable Sushi Rolls",
+        "description": "Homemade sushi rolls with fresh vegetables.",
+        "category": "Lunch",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZU1S1__JDJSwSYbpkfrLJAinnXzt_Ki71jQ&s",
+        "ingredients": [
+            "Nori sheets",
+            "Sushi rice",
+            "Cucumber, avocado, carrot strips",
+            "Soy sauce"
+        ],
+        "instructions": [
+            "Spread rice on nori.",
+            "Add veggies.",
+            "Roll tightly, slice."
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Eggplant Parmesan",
+        "description": "Baked eggplant with marinara and cheese.",
+        "category": "Dinner",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz4k-Kj812Vp81Wie_K-PluZg7K0b4QlctDg&s",
+        "ingredients": [
+            "1 eggplant, sliced",
+            "Marinara sauce",
+            "Mozzarella cheese",
+            "Breadcrumbs",
+            "Olive oil"
+        ],
+        "instructions": [
+            "Bread eggplant slices.",
+            "Fry or bake.",
+            "Top with sauce and cheese.",
+            "Bake until melted."
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Grilled Salmon",
+        "description": "Simple grilled salmon with lemon and herbs.",
+        "category": "Dinner",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZaxQOQD7J0g7JxSoZ7-IXzqrRAXlMQHwHpA&s",
+        "ingredients": [
+            "Salmon fillet",
+            "Lemon slices",
+            "Olive oil",
+            "Garlic, herbs"
+        ],
+        "instructions": [
+            "Season salmon.",
+            "Grill 4-5 minutes per side.",
+            "Serve with lemon."
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Mushroom Risotto",
+        "description": "Creamy risotto with mushrooms and Parmesan.",
+        "category": "Dinner",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD-VFZ2rUCWY3dsu8YsG0yOevm-OKyJgA4Ng&s",
+        "ingredients": [
+            "1 cup Arborio rice",
+            "200g mushrooms",
+            "Onion, garlic",
+            "Vegetable broth",
+            "Parmesan"
+        ],
+        "instructions": [
+            "Sauté mushrooms, onion.",
+            "Add rice, broth gradually.",
+            "Stir until creamy.",
+            "Add cheese."
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Vegetable Curry",
+        "description": "Spicy curry with mixed vegetables.",
+        "category": "Dinner",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTqdhWf11QGemceBd9RW55CClt10pUqFOznw&s",
+        "ingredients": [
+            "Mixed veggies: potato, cauliflower",
+            "Coconut milk",
+            "Curry paste",
+            "Rice"
+        ],
+        "instructions": [
+            "Sauté veggies.",
+            "Add curry paste and milk.",
+            "Simmer until tender.",
+            "Serve with rice."
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Pork Chops with Apples",
+        "description": "Juicy pork chops with apple sauce.",
+        "category": "Dinner",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0C1_QzZLJAvwF2dQ-g2ZV0xLqfUYKDpFPA&s",
+        "ingredients": [
+            "2 pork chops",
+            "2 apples, sliced",
+            "Butter",
+            "Cinnamon"
+        ],
+        "instructions": [
+            "Season and cook pork.",
+            "Sauté apples with butter.",
+            "Serve together."
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Stuffed Bell Peppers",
+        "description": "Bell peppers stuffed with rice and veggies.",
+        "category": "Dinner",
+        "image": "https://cdn.loveandlemons.com/wp-content/uploads/2020/08/stuffed-peppers.jpg",
+        "ingredients": [
+            "4 bell peppers",
+            "Cooked rice",
+            "Black beans",
+            "Corn",
+            "Cheese"
+        ],
+        "instructions": [
+            "Mix filling.",
+            "Stuff peppers.",
+            "Bake 30 minutes."
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Banana Bread",
+        "description": "Moist bread made with ripe bananas.",
+        "category": "Desserts",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA9vqPaKz0S2KO-m4fCC63rTK1tekNZ81OIg&s",
+        "ingredients": [
+            "3 ripe bananas",
+            "1/3 cup melted butter",
+            "1 tsp baking soda",
+            "Pinch salt",
+            "3/4 cup sugar",
+            "1 egg",
+            "1 tsp vanilla",
+            "1.5 cups flour"
+        ],
+        "instructions": [
+            "Mash bananas, mix with butter.",
+            "Add sugar, egg, vanilla.",
+            "Mix dry ingredients, combine.",
+            "Bake at 350°F for 60 minutes."
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Rice Pudding",
+        "description": "Creamy pudding made with rice and milk.",
+        "category": "Desserts",
+        "image": "https://www.lifeloveandsugar.com/wp-content/uploads/2021/01/Rice-Pudding4E.jpg",
+        "ingredients": [
+            "1/2 cup rice",
+            "4 cups milk",
+            "1/2 cup sugar",
+            "Cinnamon"
+        ],
+        "instructions": [
+            "Cook rice in milk.",
+            "Add sugar, simmer.",
+            "Sprinkle cinnamon."
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Lemon Bars",
+        "description": "Tangy lemon bars with shortbread crust.",
+        "category": "Desserts",
+        "image": "https://anitalianinmykitchen.com/wp-content/uploads/2019/07/Lemon-squares-sq-1-of-1.jpg",
+        "ingredients": [
+            "1 cup flour",
+            "1/2 cup butter",
+            "1/4 cup sugar",
+            "2 eggs",
+            "1 cup sugar",
+            "2 tbsp flour",
+            "1/2 cup lemon juice"
+        ],
+        "instructions": [
+            "Mix crust, bake.",
+            "Mix filling, pour over.",
+            "Bake again."
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Apple Pie",
+        "description": "Classic pie with cinnamon apples.",
+        "category": "Desserts",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShGvV_1zfnQCiMnjXk7by4zrlZKJQw1yvBIg&s",
+        "ingredients": [
+            "6 apples, sliced",
+            "1/2 cup sugar",
+            "Cinnamon",
+            "Pie crust",
+            "Butter"
+        ],
+        "instructions": [
+            "Mix apples with sugar, cinnamon.",
+            "Fill crust, dot with butter.",
+            "Top with crust, bake."
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Coconut Macaroons",
+        "description": "Chewy cookies made with coconut.",
+        "category": "Desserts",
+        "image": "https://shwetainthekitchen.com/wp-content/uploads/2021/12/Eggless-coconut-macaroons.jpg",
+        "ingredients": [
+            "3 cups coconut",
+            "3/4 cup sugar",
+            "4 egg whites",
+            "1 tsp vanilla"
+        ],
+        "instructions": [
+            "Mix ingredients.",
+            "Drop on sheet.",
+            "Bake at 325°F for 20 minutes."
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Pumpkin Pie",
+        "description": "Spiced pie with pumpkin filling.",
+        "category": "Desserts",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2o_tGbPHBFmWgsHvunS57o-Jiu_cueM4tCA&s",
+        "ingredients": [
+            "1 can pumpkin",
+            "3/4 cup sugar",
+            "2 eggs",
+            "1 tsp cinnamon",
+            "Pie crust"
+        ],
+        "instructions": [
+            "Mix filling.",
+            "Pour into crust.",
+            "Bake at 425°F for 15 min, then 350°F."
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Vegan Brownie",
+        "description": "Fudgy brownies without eggs or dairy.",
+        "category": "Desserts",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ5bcfL7KrDbspIQ7iytYWOU3rMwXytsM9LA&s",
+        "ingredients": [
+            "1 cup flour",
+            "1 cup sugar",
+            "1/3 cup cocoa",
+            "1/2 cup oil",
+            "1 cup water",
+            "1 tsp vanilla",
+            "1 tsp baking soda"
+        ],
+        "instructions": [
+            "Mix dry ingredients.",
+            "Add wet, stir.",
+            "Bake at 350°F for 25 minutes."
+        ]
+    },
+  {
+    "id": 51,
+    "title": "Paneer Butter Masala",
+    "description": "A rich and creamy North Indian curry made with paneer, butter, tomatoes, and cream.",
+    "category": "Dinner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_JfZHtD_jlggLqhDlthd7Jg2o4gt7OrWH7w&s",
+    "ingredients": [
+      "200g paneer (cubed)",
+      "2 tbsp butter",
+      "2 onions (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "1/2 cup fresh cream",
+      "Salt to taste",
+      "Coriander leaves for garnish"
+    ],
+    "instructions": [
+      "Heat butter in a pan and sauté onions till golden.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomato puree, turmeric, red chili powder, and salt. Cook until oil separates.",
+      "Add paneer cubes and simmer for 5 minutes.",
+      "Stir in cream and garam masala, cook for 2 minutes.",
+      "Garnish with coriander and serve with naan or rice."
+    ]
+  },
+  {
+    "id": 52,
+    "title": "Sambar",
+    "description": "A traditional South Indian lentil-based stew made with tamarind, vegetables, and spices.",
+    "category": "Lunch",
+    "image": "https://www.keralatourism.org/_next/image/?url=http%3A%2F%2F127.0.0.1%2Fktadmin%2Fimg%2Fpages%2Fmobile%2Fsambar-1722149784_156e7a36721d795c9972.webp&w=3840&q=75",
+    "ingredients": [
+      "1 cup toor dal",
+      "2 tbsp sambar powder",
+      "1 small lemon-sized tamarind ball",
+      "1 cup mixed vegetables (drumstick, brinjal, carrot, beans)",
+      "1/2 tsp turmeric powder",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "Few curry leaves",
+      "2 dried red chilies",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Pressure cook toor dal with turmeric and water until soft.",
+      "Soak tamarind in warm water and extract the juice.",
+      "Cook vegetables in tamarind extract with sambar powder and salt.",
+      "Add mashed dal and simmer for 5–10 minutes.",
+      "Heat oil, add mustard, red chilies, and curry leaves for tempering.",
+      "Pour tempering over sambar and serve hot with rice or idli."
+    ]
+  },
+  {
+    "id": 53,
+    "title": "Dal Tadka",
+    "description": "A comforting dish made with lentils tempered with ghee, garlic, and aromatic spices.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ326cVQd7cXW2Rj1F0D11ns1hQDpdmWmVWuw&s",
+    "ingredients": [
+      "1 cup toor dal",
+      "1 onion (chopped)",
+      "1 tomato (chopped)",
+      "2 green chilies (slit)",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "2 garlic cloves (crushed)",
+      "2 tbsp ghee",
+      "Salt to taste",
+      "Coriander for garnish"
+    ],
+    "instructions": [
+      "Cook toor dal with turmeric until soft.",
+      "Heat ghee, add cumin, garlic, onion, and sauté until golden.",
+      "Add tomatoes and cook until mushy.",
+      "Mix in cooked dal and salt, simmer for 5 minutes.",
+      "Garnish with coriander and serve with rice or chapati."
+    ]
+  },
+  {
+    "id": 54,
+    "title": "Potato Curry (Aloo Curry)",
+    "description": "A spicy and tangy curry made with potatoes and aromatic Indian spices.",
+    "category": "Dinner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa6bSikiI14DaEREArjcmNX89ZrpTJ8ALGag&s",
+    "ingredients": [
+      "3 medium potatoes (boiled & cubed)",
+      "2 onions (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tsp ginger-garlic paste",
+      "1 tsp mustard seeds",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste",
+      "Coriander leaves"
+    ],
+    "instructions": [
+      "Heat oil, add mustard and cumin seeds until they splutter.",
+      "Add onions and sauté until golden brown.",
+      "Add ginger-garlic paste and cook for 1 minute.",
+      "Add tomatoes, turmeric, chili powder, and salt. Cook till mushy.",
+      "Add potatoes and garam masala. Mix well and simmer for 5 minutes.",
+      "Garnish with coriander and serve with rice or roti."
+    ]
+  },
+  {
+    "id": 55,
+    "title": "Ladies Finger Fry (Bhindi Fry)",
+    "description": "A crispy and flavorful side dish made with ladies finger and spices.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNvdFlvrZs6_qMcf63wlawxNRXenNLl9SJPA&s",
+    "ingredients": [
+      "250g ladies finger (bhindi)",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 onion (sliced)",
+      "1/2 tsp turmeric powder",
+      "1 tsp red chili powder",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Wash and cut ladies finger into small pieces.",
+      "Heat oil and add mustard seeds until they pop.",
+      "Add onions and sauté till soft.",
+      "Add bhindi, turmeric, salt, and chili powder.",
+      "Cook uncovered until crisp, stirring occasionally.",
+      "Serve hot with rice or chapati."
+    ]
+  },
+  {
+    "id": 56,
+    "title": "Aavakaya Pickle",
+    "description": "A spicy and tangy traditional Andhra mango pickle made with raw mangoes and mustard powder.",
+    "category": "Side Dish",
+    "image": "https://jandhyalafoods.in/wp-content/uploads/2021/12/Avakaya-mob-4.jpg",
+    "ingredients": [
+      "3 raw mangoes (cut into pieces)",
+      "100g mustard powder",
+      "50g red chili powder",
+      "100g salt",
+      "200ml gingelly oil",
+      "1 tsp turmeric powder",
+      "Few garlic pods (optional)"
+    ],
+    "instructions": [
+      "Dry mango pieces under shade for 1 hour.",
+      "Mix mustard, chili, salt, and turmeric in a bowl.",
+      "Add mango pieces and mix well.",
+      "Pour gingelly oil and stir until evenly coated.",
+      "Store in an airtight jar for 3–4 days before use."
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Plain Rice",
+    "description": "Simple steamed rice cooked to perfection, ideal for serving with curries and dals.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToH_QlJj_-RFQmvMptkhz6uiRPlzDIoL3DuA&s",
+    "ingredients": [
+      "1 cup rice",
+      "2 cups water",
+      "1/2 tsp salt (optional)"
+    ],
+    "instructions": [
+      "Rinse rice 2–3 times until water runs clear.",
+      "Add rice, water, and salt to a pot.",
+      "Cover and cook on medium heat for 10–12 minutes until soft.",
+      "Fluff with a fork and serve hot."
+    ]
+  },
+  {
+    "id": 58,
+    "title": "Vegetable Pulao",
+    "description": "A fragrant rice dish cooked with vegetables and mild spices.",
+    "category": "Lunch",
+    "image": "https://i.ytimg.com/vi/jj2DDnCmOJ0/maxresdefault.jpg",
+    "ingredients": [
+      "1 cup basmati rice",
+      "1 cup mixed vegetables (carrot, beans, peas)",
+      "1 onion (sliced)",
+      "2 cloves, 1 cinnamon stick, 2 cardamoms",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp oil or ghee",
+      "2 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak rice for 15 minutes and drain.",
+      "Heat ghee and add spices, then onions until golden.",
+      "Add ginger-garlic paste and sauté briefly.",
+      "Add vegetables, rice, salt, and water.",
+      "Cook covered until rice is soft and fluffy.",
+      "Serve with raita or curry."
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Curd Rice",
+    "description": "A cooling South Indian rice dish mixed with curd and tempered with mustard and curry leaves.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCviUocFE-07hC-P_9jUIEdPE-9eKGT8cQHA&s",
+    "ingredients": [
+      "1 cup cooked rice",
+      "1 cup curd (yogurt)",
+      "1 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 green chili (chopped)",
+      "Few curry leaves",
+      "1 tbsp grated carrot",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Mash cooked rice and mix with curd and salt.",
+      "Heat oil, add mustard seeds, chili, and curry leaves.",
+      "Pour tempering over curd rice.",
+      "Garnish with grated carrot and serve chilled."
+    ]
+  },
+  {
+    "id": 60,
+    "title": "Vegetable Biryani",
+    "description": "A delicious and aromatic rice dish made with mixed vegetables and fragrant spices.",
+    "category": "Dinner",
+    "image": "https://i.ytimg.com/vi/Do7ZdUodDdw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAEQctXy1aD1723HT7omylxjn4tMQ",
+    "ingredients": [
+      "1 cup basmati rice",
+      "1 cup mixed vegetables (carrot, beans, peas, potato)",
+      "1 onion (fried)",
+      "1 tomato (chopped)",
+      "1/2 cup curd",
+      "2 cloves, 1 bay leaf, 1 cinnamon stick",
+      "1 tsp ginger-garlic paste",
+      "2 tbsp ghee",
+      "1 tsp biryani masala",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Cook rice till 80% done and set aside.",
+      "In a pan, heat ghee and add whole spices.",
+      "Add onion, tomato, and ginger-garlic paste.",
+      "Add vegetables, curd, biryani masala, and salt. Cook till veggies are tender.",
+      "Layer rice and vegetable masala, cover, and cook on low for 10 minutes.",
+      "Serve hot with raita."
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Chapati",
+    "description": "A soft Indian flatbread made with whole wheat flour, perfect with any curry.",
+    "category": "Dinner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjVWQh1fMC2zTIaO3Wy1Kg1f1cGTJGEtnqQ&s",
+    "ingredients": [
+      "2 cups whole wheat flour",
+      "Water as needed",
+      "1 tsp salt",
+      "1 tbsp oil or ghee"
+    ],
+    "instructions": [
+      "Mix flour, salt, and water to form a smooth dough.",
+      "Rest the dough for 15–20 minutes.",
+      "Divide into balls and roll into thin circles.",
+      "Cook on a hot tawa on both sides until light brown spots appear.",
+      "Brush with ghee and serve hot."
+    ]
+  },
+  {
+    "id": 62,
+    "title": "Poori",
+    "description": "A deep-fried Indian bread that puffs up beautifully, served with curries or halwa.",
+    "category": "Breakfast",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS787-LKLs0P2guxqQ7eBDEeqqdfkgLP8yfDg&s",
+    "ingredients": [
+      "2 cups wheat flour",
+      "1/2 tsp salt",
+      "1 tbsp oil",
+      "Water as needed",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Combine flour, salt, oil, and water to make a firm dough.",
+      "Divide into small balls and roll into small circles.",
+      "Heat oil in a pan and fry poori until golden and puffed.",
+      "Serve hot with potato curry or halwa."
+    ]
+  },
+  {
+    "id": 63,
+    "title": "Chana Masala",
+    "description": "A spicy and tangy chickpea curry popular in North India.",
+    "category": "Dinner",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/chana-masala-fb809bc.jpg",
+    "ingredients": [
+      "1 cup chickpeas (soaked overnight)",
+      "2 onions (chopped)",
+      "2 tomatoes (pureed)",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "1 tsp chili powder",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Pressure cook chickpeas until soft.",
+      "Heat oil and sauté cumin and onions until golden.",
+      "Add ginger-garlic paste, tomato puree, and spices. Cook until oil separates.",
+      "Add cooked chickpeas and simmer for 10 minutes.",
+      "Garnish with coriander and serve with rice or chapati."
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Aloo Gobi",
+    "description": "A dry curry made with potatoes, cauliflower, and Indian spices.",
+    "category": "Lunch",
+    "image": "https://static01.nyt.com/images/2023/12/21/multimedia/ND-Aloo-Gobi-gkwc/ND-Aloo-Gobi-gkwc-mediumSquareAt3X.jpg",
+    "ingredients": [
+      "2 potatoes (cubed)",
+      "1 small cauliflower (cut into florets)",
+      "1 onion (chopped)",
+      "2 tomatoes (chopped)",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add cumin seeds, and sauté onions until soft.",
+      "Add potatoes, cauliflower, and spices.",
+      "Cook covered on low heat for 15 minutes until vegetables are tender.",
+      "Add tomatoes and cook until soft.",
+      "Serve hot with roti or rice."
+    ]
+  },
+  {
+    "id": 65,
+    "title": "Masala Dosa",
+    "description": "A crispy South Indian crepe filled with spiced potato masala.",
+    "category": "Breakfast",
+    "image": "https://palatesdesire.com/wp-content/uploads/2022/09/Mysore-masala-dosa-recipe@palates-desire-500x500.jpg",
+    "ingredients": [
+      "2 cups dosa batter",
+      "2 potatoes (boiled and mashed)",
+      "1 onion (sliced)",
+      "1/2 tsp mustard seeds",
+      "Few curry leaves",
+      "1/2 tsp turmeric powder",
+      "1 green chili (chopped)",
+      "Salt and oil as needed"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and curry leaves.",
+      "Add onion, chili, turmeric, and salt; sauté and mix with mashed potatoes.",
+      "Spread dosa batter on a hot tawa and cook until golden.",
+      "Place masala in the center, fold, and serve with chutney and sambar."
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Idli",
+    "description": "Soft and fluffy steamed rice cakes, a classic South Indian breakfast.",
+    "category": "Breakfast",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzRLKvSf9bcjFHCsS42ZqnmRGQ5JtlxwZTKw&s",
+    "ingredients": [
+      "2 cups idli rice",
+      "1 cup urad dal",
+      "1/2 tsp salt",
+      "Water as needed"
+    ],
+    "instructions": [
+      "Soak rice and dal separately for 4–5 hours.",
+      "Grind to a smooth batter and ferment overnight.",
+      "Add salt and pour batter into greased idli molds.",
+      "Steam for 10–12 minutes and serve with chutney or sambar."
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Lemon Rice",
+    "description": "A tangy and flavorful South Indian rice dish tempered with lemon juice and spices.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTMqXh5Nseo0RMXb6CSBlYuC1JZk7sslGbw&s",
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 tbsp oil",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "Few curry leaves",
+      "2 green chilies (chopped)",
+      "1/4 tsp turmeric powder",
+      "Juice of 1 lemon",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil and add mustard, urad dal, chilies, and curry leaves.",
+      "Add turmeric and turn off heat.",
+      "Mix in rice, salt, and lemon juice.",
+      "Stir well and serve with pickle or papad."
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Tomato Rasam",
+    "description": "A tangy South Indian soup made with tomatoes, tamarind, and pepper spices.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMBK4-LGhJ_xaPZE75js_fbkuVd3eUBfc1ng&s",
+    "ingredients": [
+      "2 tomatoes (chopped)",
+      "1 small lemon-sized tamarind ball",
+      "1/2 tsp black pepper powder",
+      "1 tsp cumin seeds",
+      "1 tsp mustard seeds",
+      "1/4 tsp turmeric powder",
+      "Few curry leaves",
+      "2 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak tamarind in water and extract juice.",
+      "Boil tomatoes with turmeric and tamarind extract.",
+      "Add salt, pepper, and cumin powder.",
+      "Temper with mustard seeds and curry leaves.",
+      "Serve hot with rice."
+    ]
+  },
+  {
+    "id": 69,
+    "title": "Vegetable Kurma",
+    "description": "A flavorful curry made with mixed vegetables, coconut, and aromatic spices.",
+    "category": "Dinner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBrmClB1YPQ9BIaxdIbGtcuwRR8tiMLBqnw&s",
+    "ingredients": [
+      "1 cup mixed vegetables (carrot, peas, beans, potato)",
+      "1 onion (sliced)",
+      "1 tomato (chopped)",
+      "1/2 cup coconut (grated)",
+      "1 tsp ginger-garlic paste",
+      "1 tsp garam masala",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Grind coconut with a little water to make a paste.",
+      "Heat oil, sauté onions, ginger-garlic, and tomato.",
+      "Add vegetables, salt, and masala; cook until soft.",
+      "Add coconut paste and simmer for 5 minutes.",
+      "Serve hot with chapati or rice."
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Puliyogare (Tamarind Rice)",
+    "description": "A South Indian rice dish flavored with tamarind, peanuts, and spices.",
+    "category": "Lunch",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/08/puliyogare-recipe-500x500.jpg",
+    "ingredients": [
+      "2 cups cooked rice",
+      "1 lemon-sized tamarind ball",
+      "2 tbsp oil",
+      "1 tbsp peanuts",
+      "1 tsp mustard seeds",
+      "1 tsp chana dal",
+      "Few curry leaves",
+      "2 dried red chilies",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Soak tamarind in water and extract juice.",
+      "Heat oil, add mustard, chana dal, peanuts, and curry leaves.",
+      "Add tamarind juice and cook until thick.",
+      "Mix with rice and serve with papad or curd."
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Vegetable Fried Rice",
+    "description": "A quick Indo-Chinese rice dish tossed with vegetables and soy sauce.",
+    "category": "Dinner",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg",
+    "ingredients": [
+      "2 cups cooked rice",
+      "1 cup chopped vegetables (carrot, beans, capsicum, cabbage)",
+      "2 tbsp soy sauce",
+      "1 tbsp oil",
+      "1 tsp vinegar",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Heat oil in a wok and sauté vegetables on high flame.",
+      "Add soy sauce, vinegar, salt, and pepper.",
+      "Toss in rice and mix well.",
+      "Serve hot with chili sauce or manchurian."
+    ]
+  },
+  {
+    "id": 72,
+    "title": "Aloo Paratha",
+    "description": "A stuffed Indian flatbread filled with spiced mashed potatoes.",
+    "category": "Breakfast",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8t3ApvgxoR-lHo1OW4tG5tBg8TGM3lvs0hw&s",
+    "ingredients": [
+      "2 cups wheat flour",
+      "3 boiled potatoes (mashed)",
+      "1 tsp cumin powder",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "Oil or ghee for cooking"
+    ],
+    "instructions": [
+      "Prepare dough using wheat flour and water.",
+      "Mix potatoes with spices for stuffing.",
+      "Roll dough, place filling, and seal edges.",
+      "Cook on tawa with ghee until golden brown on both sides.",
+      "Serve with curd or pickle."
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Vegetable Upma",
+    "description": "A South Indian breakfast made with roasted semolina and vegetables.",
+    "category": "Breakfast",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLpXk6wNNvEwrkHOuJe23WSSCERbTtMxq8Mw&s",
+    "ingredients": [
+      "1 cup semolina (rava)",
+      "1 onion (chopped)",
+      "1 carrot (grated)",
+      "1 tsp mustard seeds",
+      "1 tsp urad dal",
+      "Few curry leaves",
+      "2 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Roast semolina until golden and set aside.",
+      "Heat oil, add mustard, urad dal, onions, curry leaves, and carrot.",
+      "Add water and salt, bring to boil.",
+      "Add semolina gradually while stirring.",
+      "Cook until thick and serve hot."
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Vegetable Pakora",
+    "description": "Crispy deep-fried fritters made with mixed vegetables and gram flour batter.",
+    "category": "Snack",
+    "image": "https://holycowvegan.net/wp-content/uploads/2025/04/vegetable-pakora-42.jpeg",
+    "ingredients": [
+      "1 cup gram flour (besan)",
+      "1 onion (sliced)",
+      "1 potato (thinly sliced)",
+      "1 green chili (chopped)",
+      "1/2 tsp turmeric powder",
+      "1/2 tsp red chili powder",
+      "Salt and water as needed",
+      "Oil for deep frying"
+    ],
+    "instructions": [
+      "Mix all ingredients into a thick batter.",
+      "Heat oil and drop spoonfuls of batter.",
+      "Fry until golden and crisp.",
+      "Serve hot with chutney or sauce."
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Cabbage Curry",
+    "description": "A simple and healthy dry curry made with cabbage and spices.",
+    "category": "Lunch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1eqP2v-EGooRBlW9NjITv-NfL2VKHBqaGmw&s",
+    "ingredients": [
+      "2 cups chopped cabbage",
+      "1 onion (sliced)",
+      "1/2 tsp mustard seeds",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "1 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Heat oil, add mustard seeds and onions.",
+      "Add cabbage, turmeric, and salt.",
+      "Cook covered for 10 minutes until soft.",
+      "Add chili powder, mix well, and serve."
+    ]
+  },
+  {
+    "id": 76,
+    "title": "Vegetable Khichdi",
+    "description": "A comforting one-pot meal of rice and lentils cooked with vegetables and spices.",
+    "category": "Dinner",
+    "image": "https://i0.wp.com/s.lightorangebean.com/media/20240924010120/Spiced-Vegetable-Khichdi_post4-768x482.jpg?resize=768%2C482&quality=89&ssl=1",
+    "ingredients": [
+      "1/2 cup rice",
+      "1/4 cup moong dal",
+      "1 cup chopped vegetables",
+      "1 tsp cumin seeds",
+      "1/2 tsp turmeric powder",
+      "2 cups water",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Wash rice and dal together.",
+      "Heat oil, add cumin, turmeric, and vegetables.",
+      "Add rice, dal, salt, and water.",
+      "Pressure cook for 3 whistles.",
+      "Serve hot with ghee or pickle."
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Methi Thepla",
+    "description": "Gujarati flatbread made with fenugreek leaves, wheat flour, and spices.",
+    "category": "Breakfast",
+    "image": "https://rakskitchen.net/wp-content/uploads/2009/05/methi-thepla.jpg",
+    "ingredients": [
+      "2 cups wheat flour",
+      "1 cup methi leaves (finely chopped)",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Mix all ingredients into a soft dough.",
+      "Roll into thin circles.",
+      "Cook on tawa with a little oil until golden on both sides.",
+      "Serve with curd or pickle."
+    ]
+  },
+  {
+    "id": 78,
+    "title": "Vegetable Sandwich",
+    "description": "A quick and healthy sandwich with fresh vegetables and butter.",
+    "category": "Snack",
+    "image": "https://www.foodandwine.com/thmb/gv06VNqj1uUJHGlw5e7IULwUmr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2012-r-xl-vegetable-sandwich-with-dill-sauce-2000-0984c1b513ae4af396aee039afa5e38c.jpg",
+    "ingredients": [
+      "4 bread slices",
+      "1 cucumber (sliced)",
+      "1 tomato (sliced)",
+      "1 onion (sliced)",
+      "Butter as needed",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Spread butter on bread slices.",
+      "Arrange cucumber, tomato, and onion slices.",
+      "Sprinkle salt and pepper.",
+      "Cover with another slice and serve fresh or toasted."
+    ]
+  },
+  {
+    "id": 79,
+    "title": "Vegetable Manchurian",
+    "description": "Fried vegetable balls in a spicy Indo-Chinese sauce.",
+    "category": "Dinner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScyKeedlAn0oGGVd0m5cXyhDweBt95hWUeRw&s",
+    "ingredients": [
+      "1 cup grated cabbage and carrot",
+      "2 tbsp maida",
+      "1 tbsp cornflour",
+      "1 tbsp soy sauce",
+      "1 tbsp chili sauce",
+      "2 tbsp oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Mix vegetables, maida, and cornflour to make balls.",
+      "Fry till golden and crisp.",
+      "In a pan, add sauces, salt, and a little water.",
+      "Add fried balls and toss well.",
+      "Serve hot with fried rice or noodles."
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Vegetable Noodles",
+    "description": "A flavorful Indo-Chinese noodle dish stir-fried with vegetables and soy sauce.",
+    "category": "Dinner",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXFqQyciY3Vd1MtY3Sdgol9ePyp3G8_WxGQ&s",
+    "ingredients": [
+      "200g noodles",
+      "1 cup chopped vegetables (carrot, cabbage, capsicum)",
+      "1 tbsp soy sauce",
+      "1 tbsp vinegar",
+      "1 tbsp oil",
+      "Salt and pepper"
+    ],
+    "instructions": [
+      "Boil noodles and drain.",
+      "Heat oil, sauté vegetables on high flame.",
+      "Add sauces, salt, and pepper.",
+      "Toss noodles well and serve hot."
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Plain Dosa",
+    "description": "A crispy and golden South Indian crepe made from fermented rice and urad dal batter.",
+    "category": "Breakfast",
+    "image": "https://i0.wp.com/southindianrecipes.in/wp-content/uploads/2021/06/Plain-Dosa.jpg",
+    "ingredients": [
+      "2 cups rice",
+      "1/2 cup urad dal",
+      "1/2 tsp fenugreek seeds",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Soak rice, urad dal, and fenugreek seeds for 6 hours.",
+      "Grind into a smooth batter and ferment overnight.",
+      "Add salt and mix well.",
+      "Heat a dosa tawa, pour a ladle of batter, and spread in circular motion.",
+      "Drizzle oil around edges and cook till golden brown.",
+      "Serve hot with chutney and sambar."
+    ]
+  },
+  {
+    "id": 82,
+    "title": "Onion Dosa",
+    "description": "A flavorful dosa topped with finely chopped onions, green chilies, and coriander.",
+    "category": "Breakfast",
+    "image": "https://rakskitchen.net/wp-content/uploads/2013/03/8527219504_0ddb2cde6f_z.jpg",
+    "ingredients": [
+      "2 cups dosa batter",
+      "1 onion (finely chopped)",
+      "1 green chili (chopped)",
+      "1 tbsp coriander leaves (chopped)",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Heat a dosa tawa and pour a ladle of batter, spreading evenly.",
+      "Sprinkle chopped onion, green chili, and coriander over the dosa.",
+      "Drizzle oil on the sides and cook until golden brown.",
+      "Fold and serve hot with coconut chutney and sambar."
+    ]
+  }
+]
